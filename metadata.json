@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Barber Styles",
+  "description": "A modern, mobile-first SaaS for barbershop and salon scheduling with AI-powered assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
